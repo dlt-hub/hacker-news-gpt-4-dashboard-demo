@@ -1,6 +1,6 @@
 # Hacker News GPT-4 Dashboard Demo
 
-Repository accompanying [this](https://dlthub.com/docs/blog) blog.
+Repository accompanying [this](https://dlthub.com/docs/blog/hacker-news-gpt-4-dashboard-demo) blog.
 
 ## Overview
 
