@@ -1,0 +1,7 @@
+dlt[duckdb]>=0.2.6
+numpy==1.20.1
+openai==0.27.6
+pandas==1.2.4
+pandas-gbq==0.19.1
+protobuf~=3.19.0
+streamlit==1.21.0
